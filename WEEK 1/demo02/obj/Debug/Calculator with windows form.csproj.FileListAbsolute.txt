@@ -1,0 +1,10 @@
+C:\Users\理查德.柯\source\repos\Calculator with windows form\obj\Debug\Calculator with windows form.csprojAssemblyReference.cache
+C:\Users\理查德.柯\source\repos\Calculator with windows form\obj\Debug\Calculator_with_windows_form.Form1.resources
+C:\Users\理查德.柯\source\repos\Calculator with windows form\obj\Debug\Calculator_with_windows_form.Properties.Resources.resources
+C:\Users\理查德.柯\source\repos\Calculator with windows form\obj\Debug\Calculator with windows form.csproj.GenerateResource.cache
+C:\Users\理查德.柯\source\repos\Calculator with windows form\obj\Debug\Calculator with windows form.csproj.CoreCompileInputs.cache
+C:\Users\理查德.柯\source\repos\Calculator with windows form\bin\Debug\Calculator with windows form.exe.config
+C:\Users\理查德.柯\source\repos\Calculator with windows form\bin\Debug\Calculator with windows form.exe
+C:\Users\理查德.柯\source\repos\Calculator with windows form\bin\Debug\Calculator with windows form.pdb
+C:\Users\理查德.柯\source\repos\Calculator with windows form\obj\Debug\Calculator with windows form.exe
+C:\Users\理查德.柯\source\repos\Calculator with windows form\obj\Debug\Calculator with windows form.pdb
