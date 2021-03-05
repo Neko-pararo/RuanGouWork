@@ -1,0 +1,13 @@
+C:\Users\理查德.柯\source\repos\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.exe
+C:\Users\理查德.柯\source\repos\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.deps.json
+C:\Users\理查德.柯\source\repos\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.runtimeconfig.json
+C:\Users\理查德.柯\source\repos\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.runtimeconfig.dev.json
+C:\Users\理查德.柯\source\repos\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.dll
+C:\Users\理查德.柯\source\repos\ArrayPractice\bin\Debug\netcoreapp3.1\ArrayPractice.pdb
+C:\Users\理查德.柯\source\repos\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.csprojAssemblyReference.cache
+C:\Users\理查德.柯\source\repos\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.AssemblyInfoInputs.cache
+C:\Users\理查德.柯\source\repos\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.AssemblyInfo.cs
+C:\Users\理查德.柯\source\repos\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\理查德.柯\source\repos\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.dll
+C:\Users\理查德.柯\source\repos\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.pdb
+C:\Users\理查德.柯\source\repos\ArrayPractice\obj\Debug\netcoreapp3.1\ArrayPractice.genruntimeconfig.cache

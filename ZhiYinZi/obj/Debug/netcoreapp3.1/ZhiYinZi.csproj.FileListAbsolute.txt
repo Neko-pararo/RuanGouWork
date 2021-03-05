@@ -1,0 +1,13 @@
+C:\Users\理查德.柯\source\repos\ZhiYinZi\bin\Debug\netcoreapp3.1\ZhiYinZi.exe
+C:\Users\理查德.柯\source\repos\ZhiYinZi\bin\Debug\netcoreapp3.1\ZhiYinZi.deps.json
+C:\Users\理查德.柯\source\repos\ZhiYinZi\bin\Debug\netcoreapp3.1\ZhiYinZi.runtimeconfig.json
+C:\Users\理查德.柯\source\repos\ZhiYinZi\bin\Debug\netcoreapp3.1\ZhiYinZi.runtimeconfig.dev.json
+C:\Users\理查德.柯\source\repos\ZhiYinZi\bin\Debug\netcoreapp3.1\ZhiYinZi.dll
+C:\Users\理查德.柯\source\repos\ZhiYinZi\bin\Debug\netcoreapp3.1\ZhiYinZi.pdb
+C:\Users\理查德.柯\source\repos\ZhiYinZi\obj\Debug\netcoreapp3.1\ZhiYinZi.csprojAssemblyReference.cache
+C:\Users\理查德.柯\source\repos\ZhiYinZi\obj\Debug\netcoreapp3.1\ZhiYinZi.AssemblyInfoInputs.cache
+C:\Users\理查德.柯\source\repos\ZhiYinZi\obj\Debug\netcoreapp3.1\ZhiYinZi.AssemblyInfo.cs
+C:\Users\理查德.柯\source\repos\ZhiYinZi\obj\Debug\netcoreapp3.1\ZhiYinZi.csproj.CoreCompileInputs.cache
+C:\Users\理查德.柯\source\repos\ZhiYinZi\obj\Debug\netcoreapp3.1\ZhiYinZi.dll
+C:\Users\理查德.柯\source\repos\ZhiYinZi\obj\Debug\netcoreapp3.1\ZhiYinZi.pdb
+C:\Users\理查德.柯\source\repos\ZhiYinZi\obj\Debug\netcoreapp3.1\ZhiYinZi.genruntimeconfig.cache

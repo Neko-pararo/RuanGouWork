@@ -1,0 +1,12 @@
+C:\Users\理查德.柯\source\repos\Eratosthenes\bin\Debug\netcoreapp3.1\Eratosthenes.exe
+C:\Users\理查德.柯\source\repos\Eratosthenes\bin\Debug\netcoreapp3.1\Eratosthenes.deps.json
+C:\Users\理查德.柯\source\repos\Eratosthenes\bin\Debug\netcoreapp3.1\Eratosthenes.runtimeconfig.json
+C:\Users\理查德.柯\source\repos\Eratosthenes\bin\Debug\netcoreapp3.1\Eratosthenes.runtimeconfig.dev.json
+C:\Users\理查德.柯\source\repos\Eratosthenes\bin\Debug\netcoreapp3.1\Eratosthenes.dll
+C:\Users\理查德.柯\source\repos\Eratosthenes\bin\Debug\netcoreapp3.1\Eratosthenes.pdb
+C:\Users\理查德.柯\source\repos\Eratosthenes\obj\Debug\netcoreapp3.1\Eratosthenes.AssemblyInfoInputs.cache
+C:\Users\理查德.柯\source\repos\Eratosthenes\obj\Debug\netcoreapp3.1\Eratosthenes.AssemblyInfo.cs
+C:\Users\理查德.柯\source\repos\Eratosthenes\obj\Debug\netcoreapp3.1\Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\理查德.柯\source\repos\Eratosthenes\obj\Debug\netcoreapp3.1\Eratosthenes.dll
+C:\Users\理查德.柯\source\repos\Eratosthenes\obj\Debug\netcoreapp3.1\Eratosthenes.pdb
+C:\Users\理查德.柯\source\repos\Eratosthenes\obj\Debug\netcoreapp3.1\Eratosthenes.genruntimeconfig.cache

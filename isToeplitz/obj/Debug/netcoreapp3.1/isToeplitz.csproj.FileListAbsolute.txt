@@ -1,0 +1,13 @@
+C:\Users\理查德.柯\source\repos\isToeplitz\bin\Debug\netcoreapp3.1\isToeplitz.exe
+C:\Users\理查德.柯\source\repos\isToeplitz\bin\Debug\netcoreapp3.1\isToeplitz.deps.json
+C:\Users\理查德.柯\source\repos\isToeplitz\bin\Debug\netcoreapp3.1\isToeplitz.runtimeconfig.json
+C:\Users\理查德.柯\source\repos\isToeplitz\bin\Debug\netcoreapp3.1\isToeplitz.runtimeconfig.dev.json
+C:\Users\理查德.柯\source\repos\isToeplitz\bin\Debug\netcoreapp3.1\isToeplitz.dll
+C:\Users\理查德.柯\source\repos\isToeplitz\bin\Debug\netcoreapp3.1\isToeplitz.pdb
+C:\Users\理查德.柯\source\repos\isToeplitz\obj\Debug\netcoreapp3.1\isToeplitz.csprojAssemblyReference.cache
+C:\Users\理查德.柯\source\repos\isToeplitz\obj\Debug\netcoreapp3.1\isToeplitz.AssemblyInfoInputs.cache
+C:\Users\理查德.柯\source\repos\isToeplitz\obj\Debug\netcoreapp3.1\isToeplitz.AssemblyInfo.cs
+C:\Users\理查德.柯\source\repos\isToeplitz\obj\Debug\netcoreapp3.1\isToeplitz.csproj.CoreCompileInputs.cache
+C:\Users\理查德.柯\source\repos\isToeplitz\obj\Debug\netcoreapp3.1\isToeplitz.dll
+C:\Users\理查德.柯\source\repos\isToeplitz\obj\Debug\netcoreapp3.1\isToeplitz.pdb
+C:\Users\理查德.柯\source\repos\isToeplitz\obj\Debug\netcoreapp3.1\isToeplitz.genruntimeconfig.cache
